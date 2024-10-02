@@ -1,0 +1,61 @@
+body{
+	background-color:#e8a6f5
+}
+
+h1{
+font-size: 30px;
+font-family: "Inria Sans", sans-serif;
+}
+
+h2 {
+	font-size: 12px;
+	font-family: 'Roboto', sans-serif;
+	color: indianred;
+}
+
+h3 {
+	font-size: 21px;
+	font-family: 'Roboto', sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: lawngreen;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+.topic {
+	font-weight: bold;
+}
+
+.bgcolor{
+	background-color: floralwhite;
+}
+
+.bgcolor2{
+	background-color: whitesmoke;
+}
+
+.bgcolor3{
+	background-color: springgreen;
+}
+
+.bgcolor4{
+	background-color: lightyellow;
+}
+
+.bgcolor8{
+	background-color: ghostwhite;
+}
+
+.bgcolor9 {
+	background-color: indianred;
+}
+a{
+	color: indianred;
+}
+.list-group-item {
+	background-color: springgreen;
+}
